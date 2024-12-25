@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there my No.![visitor count](https://profile-counter.glitch.me/miracle-techlink/count.svg) visitor.
 
 
 **miracle-techlink/miracle-techlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=miracle-techlink&show_icons=true&theme=tokyonight&count_private=true" style="width: 49%; height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracle-techlink&theme=tokyonight&layout=compact" style="width: 49%; height: 200px;"/>
+</div>
+
