@@ -5,14 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on **dignosing with visual and language model**
+- 🌱 I’m currently learning **MLLM,ViT and digital twins**
+- 👯 I’m looking to collaborate on Medlab,heathlab and hospitals.
+- 🤔 I’m looking for help on how to train a big model.
+- 💬 Ask me about (uh....,I am a sucker,don't ask me)
+- 📫 How to reach me: {'QQ'：185485195
+-                      'email':185485195@qq.com
+-                      'gmail':miracle-techlink@gmail.com
+-                      }
+- 😄 Pronouns: link tech,link people,link dream.
+- ⚡ Fun fact: I am going to start up a company during school time,just like Elon musk and Bill Gates.
+-              I am crazy on soccer,basketball.
 -->
 
 <div style="display: flex; justify-content: space-between;">
