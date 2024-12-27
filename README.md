@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Medlab,heathlab and hospitals.
 - 🤔 I’m looking for help on how to train a big model.
 - 💬 Ask me about (uh....,I am a sucker,don't ask me)
-- 📫 How to reach me: {
+- 📫 How to reach me: 
   
                         'QQ'：185485195
   
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   
                         'gmail':miracle-techlink@gmail.com
   
-                       }
 - 😄 Pronouns: link tech,link people,link dream.
 - ⚡ Fun fact: I am going to start up a company during school time,just like Elon musk and Bill Gates.
                 I am crazy on soccer,basketball.
