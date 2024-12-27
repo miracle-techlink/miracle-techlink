@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Medlab,heathlab and hospitals.
 - 🤔 I’m looking for help on how to train a big model.
 - 💬 Ask me about (uh....,I am a sucker,don't ask me)
-- 📫 How to reach me: {'QQ'：185485195
+- 📫 How to reach me: {
+                        'QQ'：185485195
   
                         'email':185485195@qq.com
   
