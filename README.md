@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ## Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,javascript,cpp,cs,php,ruby,html,css&perline=3" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,cpp,cs,php,ruby,html,css&perline=6" alt="Languages" />
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,aws,gcp,vim,cloudflare,idea,ai,replit,workers,nodejs,fastapi,flask,netlify,ubuntu&perline=3" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,aws,gcp,vim,cloudflare,idea,ai,replit,workers,nodejs,fastapi,flask,netlify,ubuntu&perline=6" alt="Tools & Platforms" />
 </p>
 
