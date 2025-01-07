@@ -28,3 +28,14 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracle-techlink&theme=tokyonight&layout=compact" style="width: 49%; height: 200px;"/>
 </div>
 
+## Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,cpp,cs,php,ruby,html,css&perline=3" alt="Languages" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,aws,gcp,vim,cloudflare,idea,ai,replit,workers,nodejs,fastapi,flask,netlify,ubuntu&perline=3" alt="Tools & Platforms" />
+</p>
+
