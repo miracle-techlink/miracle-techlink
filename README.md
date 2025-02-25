@@ -19,8 +19,7 @@ Here are some ideas to get you started:
                         'gmail':miracle-techlink@gmail.com
   
 - 😄 Pronouns: link tech,link people,link dream.
-- ⚡ Fun fact: I am going to start up a company during school time,just like Elon musk and Bill Gates.
-                I am crazy on soccer,basketball.
+- ⚡ Fun fact: I am crazy on soccer,basketball.
 -->
 
 <div style="display: flex; justify-content: space-between;">
