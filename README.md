@@ -27,6 +27,14 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracle-techlink&theme=tokyonight&layout=compact" style="width: 49%; height: 200px;"/>
 </div>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jingyaogong/jingyaogong/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jingyaogong/jingyaogong/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jingyaogong/jingyaogong/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ## Languages
 
 <p align="left">
