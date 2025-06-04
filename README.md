@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **LLM efficient reasongning and training,vla in robotics**
 - 🌱 I’m currently learning **attention,transformer,MLLM,VLA**
-- 👯 I’m looking to collaborate on Medlab,heathlab and hospitals.
+- 👯 I’m looking to collaborate on Medlab,heathlab and hospitals and robotics company.
+- ⚡ This is my blog:[miracle techlink](https://miracle-techlink.github.io)
 - 🤔 I’m looking for help on how to train a big model.
 - 💬 Ask me about (uh....,I am a sucker,don't ask me)
 - 📫 How to reach me: 
