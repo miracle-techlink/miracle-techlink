@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **dignosing with visual and language model**
-- 🌱 I’m currently learning **MLLM,ViT and digital twins**
+- 🔭 I’m currently working on **LLM efficient reasongning and training,vla in robotics**
+- 🌱 I’m currently learning **attention,transformer,MLLM,VLA**
 - 👯 I’m looking to collaborate on Medlab,heathlab and hospitals.
 - 🤔 I’m looking for help on how to train a big model.
 - 💬 Ask me about (uh....,I am a sucker,don't ask me)
