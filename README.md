@@ -79,7 +79,7 @@ offline:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=miracle-techlink&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=miracle-techlink&theme=darkhub&no-frame=true&no-bg=false&row=1&column=7&margin-w=4)
 
 </div>
 
