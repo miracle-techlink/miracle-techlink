@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **vla training on medical robotics,vla test-time scaling**
-- 🌱 I’m currently learning **MLLM,VLA**
+- 🔭 I’m currently working in **antgroup,lingbot-vla pretrain group**
+- 🌱 I’m currently learning **VLA,wam**and**medical robot**
 - 👯 I’m looking to collaborate on Medlab,heathlab and hospitals and robotics company.
 - ⚡ This is my blog:[miracle techlink](https://miracle-techlink.github.io)
 - 🤔 I’m looking for help on how to train a big model.
